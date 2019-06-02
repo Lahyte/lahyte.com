@@ -9,7 +9,7 @@ h1 {
 	font-weight:900;
 	margin:0.7em auto;
 	max-width:300px;
-	padding:0.1em;
+	padding:0.5em;
 	line-height:1.4;
 }
 h3 {
@@ -34,8 +34,15 @@ p {
 	padding:0.5em;
 	line-height:1.4;
 }
+img{
+	width:100%;
+	height:auto;
+	margin:2em auto;
+	padding:0.5em;
+	line-height:1.4;
+}
 a:link {
-  color:gray;
+  color:#D3D3D3;
 }
 a:visited {
   color:#f8fbfe;
