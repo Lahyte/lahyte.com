@@ -35,9 +35,10 @@ p {
 	line-height:1.4;
 }
 img{
-	width:100%;
+	width:97%;
 	height:auto;
-	margin:2em auto;
+	margin-left:2em auto;
+	margin-right:2em auto;
 	padding:0.5em;
 	line-height:1.4;
 }
