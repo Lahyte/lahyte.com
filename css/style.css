@@ -1,28 +1,6 @@
 body {
 	background-color:#091532;
 }
-h1 {
-	color:#f8fbfe;
-	font-family:"Source Sans Pro", sans-serif;
-	text-align:center;
-	font-size:100px;
-	font-weight:900;
-	margin:0.7em auto;
-	max-width:300px;
-	padding:0.5em;
-	line-height:1.4;
-}
-h3 {
-	color:#f8fbfe;
-	font-family:"Source Sans Pro", sans-serif;
-	text-align:left;
-	font-size:22px;
-	font-weight:200;
-	margin:2em auto;
-	max-width:800px;
-	padding:0.5em;
-	line-height:1.4;
-}
 p {
 	color:#f8fbfe;
 	font-family:"Source Sans Pro", sans-serif;
@@ -34,13 +12,16 @@ p {
 	padding:0.5em;
 	line-height:1.4;
 }
-img{
-	width:97%;
-	height:auto;
-	margin-left:2em auto;
-	margin-right:2em auto;
+center{
+	color:#f8fbfe;
+	font-family:"Source Sans Pro", sans-serif;
+	font-weight:300;
+	font-size:22px;
+	text-align:center;
+	margin:2em auto;
+	max-width:800px;
 	padding:0.5em;
-	line-height:1.4;
+	line-height:1.4;	
 }
 a:link {
   color:#D3D3D3;
