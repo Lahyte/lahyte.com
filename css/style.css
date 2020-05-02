@@ -5,7 +5,7 @@ h1 {
 	color:#f8fbfe;
 	font-family:"Source Sans Pro", sans-serif;
 	font-weight:700;
-	font-size:90px;
+	font-size:70px;
 	text-align:center;
 	max-width:800px;
 	margin:0 auto;
@@ -54,14 +54,19 @@ center{
 	line-height:1.4;	
 }
 a:link {
-  color:#D3D3D3;
+	color:#D3D3D3;
 }
 a:visited {
-  color:#f8fbfe;
+	color:#f8fbfe;
 }
 a:hover {
-  color:#f8fbfe;
+	color:#f8fbfe;
 }
 a:active {
-  color:#f8fbfe;
+	color:#f8fbfe;
+}
+.responsive {
+	display: block;
+    max-width: 300px;
+	margin: auto;
 }
