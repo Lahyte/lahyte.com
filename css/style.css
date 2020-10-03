@@ -20,17 +20,6 @@ h2 {
 	max-width:800px;
 	margin:0 auto;
 }
-h3 {
-	color:#f8fbfe;
-	font-family:"Source Sans Pro", sans-serif;
-	font-weight:300;
-	font-size:22px;
-	text-align:left;
-	margin:2em auto;
-	max-width:800px;
-	padding:0.5em;
-	line-height:1.4;
-}
 p {
 	color:#f8fbfe;
 	font-family:"Source Sans Pro", sans-serif;
@@ -39,19 +28,8 @@ p {
 	text-align:left;
 	margin:2em auto;
 	max-width:800px;
-	padding:0.5em;
+	padding:0.1em;
 	line-height:1.4;
-}
-center{
-	color:#f8fbfe;
-	font-family:"Source Sans Pro", sans-serif;
-	font-weight:300;
-	font-size:22px;
-	text-align:center;
-	margin:2em auto;
-	max-width:800px;
-	padding:0.5em;
-	line-height:1.4;	
 }
 a:link {
 	color:#D3D3D3;
@@ -77,6 +55,19 @@ a:active {
 	height: 0;
 }
 .videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.pdfWrapper {
+	position: relative;
+	padding-bottom: 100%;
+	padding-top: 0px;
+	height: 0;
+}
+.pdfWrapper iframe {
 	position: absolute;
 	top: 0;
 	left: 0;
