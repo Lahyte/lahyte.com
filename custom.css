@@ -15,16 +15,19 @@ p {
 }
 a:link {
     color:deepskyblue;
-    text-decoration:none;
+    text-decoration: none;
 }
 a:visited {
-    color:goldenrod;
+    color:deepskyblue;
+    text-decoration: none;
 }
 a:hover {
-    color:white;
+    color:deepskyblue;
+    text-decoration: underline;
 }
 a:active {
     color:goldenrod;
+    text-decoration: underline;
 }
 .mt-10 {
     margin-top: 6rem !important;
