@@ -1,4 +1,3 @@
-
 body {
     background-color: black;
     font-family:'Times New Roman', Times, serif;
@@ -8,6 +7,12 @@ body {
 h1 {
     font-family:'Times New Roman', Times, serif;
     font-weight:900;
+    color: white;
+}
+h2 {
+    font-family:'Times New Roman', Times, serif;
+    font-weight:900;
+    font-size: 1.3rem;
     color: white;
 }
 p {
